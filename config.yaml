@@ -1,0 +1,15 @@
+NP: 100
+F_lower: 0.1
+F_upper: 0.9
+x_min: -180.0
+x_max: +180.0
+T1: 0.1
+T2: 0.1
+F: 0.5
+CR: 0.9
+maxAval: 1000000
+proteinName: 't0968s1'
+# tipos de protocolo para geração de fragmentos no rosetta: 
+# quota(utiliza 3 preditores) = quota <--- usar
+# ou best(utiliza psipred, spider, raptor) = psi ou spi ou rap <--- usar
+protocolo: 'quota'
