@@ -64,6 +64,8 @@ Obs: O download pode demorar muito tempo a depender da velocidade de sua rede.
 
 ``./scons.py mode=release bin``
 
+____
+
 **Instalar PyRosetta** 
 
 1. O primeiro passo para a instalação do PyRosetta é acessar o link [para download](https://graylab.jhu.edu/download/PyRosetta4/archive/release/) (use as credenciais se necessário);
